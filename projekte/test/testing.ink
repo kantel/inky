@@ -1,37 +1,66 @@
+
+# theme: dark
+# author: Jörg Kantel
+
 -> Start
 
 === Start ==
 
+
+# CLEAR
+
+<h2>Home, Sweet Home</h2>
+
 Es geschah in einer dunklen und stürmischen Nacht. Es regnete in Strömen und das Radio spielte alte Swing-Nummern.
 
-Plötzlich tauchte im Licht der Scheinwerferkegel ein Wegweiser auf.
+# IMAGE: images/caratnight.jpg
+
+Plötzlich tauchte im Licht der Scheinwerferkegel ein Wegweiser auf. 
 
 + [Rechts ging es nach Dinkelsbach] -> Dinkelsbach 
 + [Links nach Lüdenscheid] -> Luedenscheid 
-* [Geradeaus ging es weiter nach Oberhausen.] -> Oberhausen 
++ [Geradeaus ging es weiter nach Oberhausen.] -> Oberhausen 
 
 === Dinkelsbach ===
 
-Dinkelsbach ist die Stadt der Milchmänner! Du bist hier falsch!
+# CLEAR
 
-+ [Gutes 🍺🍺🍺 Bier gibt es nur in Lüdenscheid.] -> Luedenscheid 
+# IMAGE: images/milkman.jpg
+
+Dinkelsbach ist die Stadt der Milchmänner! Du bist hier falsch! 
+
+* [Gutes 🍺🍺🍺 Bier gibt es nur in Lüdenscheid.] -> Luedenscheid  
 
 === Luedenscheid ===
 
+# CLEAR
+
+# IMAGE: images/bierwerbung.jpg
+
 Doch wer will nach einem Bier noch in Lüdenscheid bleiben? Die Frau an Deiner Seite erinnert Dich an Dein kuscheliges Bett.
 
-* [Also ab nach Hause!] -> Home 
++ [Also ab nach Hause!] -> Home
 + [Oder doch lieber noch ein Bier?] -> Luedenscheid 
 
 === Oberhausen ===
 
-Der Bahnhof in Oberhausen ist eine Sackgasse!
+# CLEAR
 
-* [Schnell zurück an den Start!] -> Start
+# IMAGE: images/montparnasse.jpg
+
+Der Bahnhof in Oberhausen ist eine Sackgasse! 
+
++ [Schnell zurück an den Start!] -> Start
 
 === Home ===
 
-<center><i>Home, Sweet Home!</i></center> 
+# CLEAR
+
+<center><b>Home, Sweet Home!</b></center>
+
+# IMAGE: images/onkelfritz.jpg
+
+<br>
 
 -> END
 
