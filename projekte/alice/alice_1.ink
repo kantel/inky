@@ -55,8 +55,8 @@ Alice erreichte die Teaparty vor dem Haus des verrückten Hutmachers. Dieser dek
 
 Alice hatte sehr schnell genug davon. Also überlegte sie,
 
-+ ob sie nicht doch die Raupe aufsuchen -> Caterpillar
-+ oder gleich nach Hause gehen sollte. -> Home
++ [ob sie nicht doch die Raupe aufsuchen] -> Caterpillar
++ [oder gleich nach Hause gehen sollte.] -> Home
 
 === Caterpillar ===
 
